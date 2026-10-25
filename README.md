@@ -1,6 +1,6 @@
 # Hi, I'm Mohamad 👋
 
-I'm a Computer Science 💻 graduate building practical expertise in **Data Analysis 📊, Data Science 🤖**.
+I'm a Computer Science 💻 graduate building practical expertise in **Data Analysis** 📊 and **Data Science 🤖**.
 
 I enjoy using programming, mathematics, and logical reasoning to explore data, investigate problems, and communicate meaningful findings.
 
